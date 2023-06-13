@@ -7,10 +7,8 @@ phases:
   pre_build:
     commands:
       - terraform init
+      - terraform validate
+  
   build:
     commands:
-    
-      - terraform plan 
-  post_build:
-    commands:
-      - terraform apply 
+      - terraform plan
