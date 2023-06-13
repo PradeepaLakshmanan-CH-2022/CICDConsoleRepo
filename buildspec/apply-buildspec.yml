@@ -4,11 +4,11 @@ phases:
   install:
     runtime-versions:
       terraform: 1.4.6
-   pre_build:
+  pre_build:
     commands:
       - terraform init
       - terraform validate
   
   build:
     commands:
-      - terraform apply --auto-approve
+      - terraform plan
