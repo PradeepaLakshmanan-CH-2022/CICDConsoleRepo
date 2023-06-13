@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\CodeGit\\CICDConsoleRepo\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\CodeGit\\CICDConsoleRepo\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\TestProject1\\obj\\",
+      "outputPath": "C:\\CodeGit\\CICDConsoleRepo\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6378,8 +6378,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj": {
-              "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj"
+            "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj": {
+              "projectPath": "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj"
             }
           }
         }
