@@ -9,7 +9,7 @@ namespace TestProject1
         public void TestMethod1()
         {
           Name name = new Name();
-          var expected = "Hi Kavinya";
+          var expected = "Hi Kaviny";
             var actual = name.GetName();
             Assert.AreEqual(expected, actual);  
         }

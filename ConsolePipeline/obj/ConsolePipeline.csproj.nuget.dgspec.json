@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj": {}
+    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj": {}
   },
   "projects": {
-    "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj": {
+    "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj",
+        "projectUniqueName": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj",
         "projectName": "ConsolePipeline",
-        "projectPath": "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\ConsolePipeline.csproj",
+        "projectPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\ConsolePipeline.csproj",
         "packagesPath": "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeGit\\CICDConsoleRepo\\ConsolePipeline\\obj\\",
+        "outputPath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\ConsolePipeline\\ConsolePipeline\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pradeepa.lakshmanan\\AppData\\Roaming\\NuGet\\NuGet.Config",
